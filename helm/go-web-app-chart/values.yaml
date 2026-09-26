@@ -3,7 +3,7 @@ replicaCount: 1
 image:
   repository: chxndxn/go-web-app
   pullPolicy: IfNotPresent
-  tag: "v1"
+  tag: "36229142862"
 
 ingress:
   enabled: false
